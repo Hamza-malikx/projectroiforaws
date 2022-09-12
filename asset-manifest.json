@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/projectroiforaws/static/css/main.2a5b27c0.css",
-    "main.js": "/projectroiforaws/static/js/main.3bcb0539.js",
+    "main.js": "/projectroiforaws/static/js/main.ac48c14a.js",
     "static/js/787.4bc65ee1.chunk.js": "/projectroiforaws/static/js/787.4bc65ee1.chunk.js",
     "static/media/heroBg.png": "/projectroiforaws/static/media/heroBg.9667b4235e36e05a5331.png",
     "static/media/roiBg.png": "/projectroiforaws/static/media/roiBg.71460f83ea45ff92a5f6.png",
@@ -26,11 +26,11 @@
     "index.html": "/projectroiforaws/index.html",
     "static/media/Moon.svg": "/projectroiforaws/static/media/Moon.64e0fd0b07865c3359a5a3f21de27636.svg",
     "main.2a5b27c0.css.map": "/projectroiforaws/static/css/main.2a5b27c0.css.map",
-    "main.3bcb0539.js.map": "/projectroiforaws/static/js/main.3bcb0539.js.map",
+    "main.ac48c14a.js.map": "/projectroiforaws/static/js/main.ac48c14a.js.map",
     "787.4bc65ee1.chunk.js.map": "/projectroiforaws/static/js/787.4bc65ee1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a5b27c0.css",
-    "static/js/main.3bcb0539.js"
+    "static/js/main.ac48c14a.js"
   ]
 }
