@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/projectroiforaws/static/css/main.5a7f7204.css",
-    "main.js": "/projectroiforaws/static/js/main.c758c945.js",
+    "main.css": "/projectroiforaws/static/css/main.2a5b27c0.css",
+    "main.js": "/projectroiforaws/static/js/main.3bcb0539.js",
     "static/js/787.4bc65ee1.chunk.js": "/projectroiforaws/static/js/787.4bc65ee1.chunk.js",
     "static/media/heroBg.png": "/projectroiforaws/static/media/heroBg.9667b4235e36e05a5331.png",
     "static/media/roiBg.png": "/projectroiforaws/static/media/roiBg.71460f83ea45ff92a5f6.png",
@@ -23,16 +23,14 @@
     "static/media/vs.png": "/projectroiforaws/static/media/vs.e85d7580c3e754e5aeda.png",
     "static/media/heroVector.png": "/projectroiforaws/static/media/heroVector.c216c2fcf1be12d1feb2.png",
     "static/media/Sun.svg": "/projectroiforaws/static/media/Sun.e482649f18e3d189ba77a25c959eddb3.svg",
-    "static/media/mcap.svg": "/projectroiforaws/static/media/mcap.6ea3b7f5db6a00ce1b69c2cfd8024958.svg",
-    "static/media/twitter.svg": "/projectroiforaws/static/media/twitter.ff093694a17e863b43ed9aa0b24ed4ff.svg",
     "index.html": "/projectroiforaws/index.html",
     "static/media/Moon.svg": "/projectroiforaws/static/media/Moon.64e0fd0b07865c3359a5a3f21de27636.svg",
-    "main.5a7f7204.css.map": "/projectroiforaws/static/css/main.5a7f7204.css.map",
-    "main.c758c945.js.map": "/projectroiforaws/static/js/main.c758c945.js.map",
+    "main.2a5b27c0.css.map": "/projectroiforaws/static/css/main.2a5b27c0.css.map",
+    "main.3bcb0539.js.map": "/projectroiforaws/static/js/main.3bcb0539.js.map",
     "787.4bc65ee1.chunk.js.map": "/projectroiforaws/static/js/787.4bc65ee1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a7f7204.css",
-    "static/js/main.c758c945.js"
+    "static/css/main.2a5b27c0.css",
+    "static/js/main.3bcb0539.js"
   ]
 }
